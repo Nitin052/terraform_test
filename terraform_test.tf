@@ -1,6 +1,6 @@
 terraform {
   cloud {
-    organization = "test-terraform-cloud"
+    organization = "nitin-sharma"
     hostname = "app.terraform.io"
     workspaces {
       name = "terraform_test"
